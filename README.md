@@ -1,5 +1,7 @@
 # Cloud iNfrastructure Telco Task Force (CNTT)
 
+Labeller test. 
+
 ## Available Specifications
 * [Governance](doc/gov)
 * [Technical Specifications](doc/common)

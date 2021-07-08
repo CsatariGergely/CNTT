@@ -1,0 +1,5 @@
+bug:
+  - ./* 
+  
+RM: 
+  - /doc/ref_model/**/*
